@@ -31,7 +31,7 @@ const SocialLinks = () => {
                 <HiOutlineMail size={30}/>
                 </>
             ),
-            href:'vemulasumanth140500@gmail.com',
+            href:'mailto:vemulasumanth140500@gmail.com',
         },
         {
             id:4,
@@ -46,7 +46,7 @@ const SocialLinks = () => {
         }
     ]
   return (
-    <div className="flex flex-row justify-center items-center fixed bottom-0 left-0 w-full">
+    <div className="flex flex-row justify-center items-center fixed bottom-0 left-0 w-full ">
     <ul className="flex gap-0 md:hover:gap-x-4 transition-all duration-300" >
       {links.map(({id, child, href, style, download}) => (
         <li key={id} className={`flex justify-between items-center w-20 h-14 px-4 bg-gray-700 ${style}`}>

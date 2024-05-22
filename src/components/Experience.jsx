@@ -109,10 +109,10 @@ const Experience = () => {
         <div className='max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white'>
             <div>
                 <p className='text-4xl font-bold border-b-4 border-gray-500 p-2 inline'>Experience</p>
-                <p className='text-2xl font-semibold py-6'>
+                <p className='text-2xl font-semibold py-6 text-gray-400'>
                   Software Engineer at Accenture (Oct 2022 - Oct 2023)
                 </p>
-                <p className='py-4'>
+                <p className='py-4 text-gray-500'>
                 At Accenture, I had the opportunity to work on a dynamic B2B web application for a 
                 leading snacks and beverage company. This application enabled the client and partner
                  customers to monitor alerts, manage consumables, gain payment insights, and oversee 
@@ -122,7 +122,7 @@ const Experience = () => {
                   creating microservices for vendors and materials to streamline data retrieval and reporting processes.
                 </p>
             </div>
-            <p className='text-xl font-semibold py-4'>
+            <p className='text-xl font-semibold py-4 text-gray-400'>
             Programming, Scripting Languages :
             </p>
             <div className='w-full grid grid-cols-2 sm:grid-cols-3 gap-8 text-center py-8 px-12 sm:px-0'>
@@ -137,7 +137,7 @@ const Experience = () => {
             }
             </div>
 
-            <p className='text-xl font-semibold py-4'>
+            <p className='text-xl font-semibold py-4 text-gray-400'>
             Web Technologies :
             </p>
             <div className='w-full grid grid-cols-2 sm:grid-cols-3 gap-8 text-center py-8 px-12 sm:px-0'>
@@ -151,7 +151,7 @@ const Experience = () => {
                 ))
             }
             </div>
-            <p className='text-xl font-semibold py-4'>
+            <p className='text-xl font-semibold py-4 text-gray-400'>
             Database :
             </p>
             <div className='w-full grid grid-cols-2 sm:grid-cols-3 gap-8 text-center py-8 px-12 sm:px-0'>
@@ -165,7 +165,7 @@ const Experience = () => {
                 ))
             }
             </div>
-            <p className='text-xl font-semibold py-4'>
+            <p className='text-xl font-semibold py-4 text-gray-400'>
             Tools/Architecture :
             </p>
             <div className='w-full grid grid-cols-2 sm:grid-cols-3 gap-8 text-center py-8 px-12 sm:px-0'>
