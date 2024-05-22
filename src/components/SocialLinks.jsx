@@ -47,7 +47,7 @@ const SocialLinks = () => {
     ]
   return (
     <div className="flex flex-row justify-center items-center fixed bottom-0 left-0 w-full">
-    <ul className="flex hover:gap-1 duration-300">
+    <ul className="flex gap-0 md:hover:gap-x-4 transition-all duration-300" >
       {links.map(({id, child, href, style, download}) => (
         <li key={id} className={`flex justify-between items-center w-20 h-14 px-4 bg-gray-700 ${style}`}>
           <a 
