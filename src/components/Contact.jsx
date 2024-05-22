@@ -3,10 +3,10 @@ import React from 'react'
 const Contact = () => {
   return (
     <div name='Contact' className='w-full h-screen bg-gradient-to-b from-black to-gray-800 p-4 text-white' >
-        <div className='flex flex-col p-4 justify-center max-w-screen-lg mx-auto h-full'>
+        <div className='flex flex-col p-2 justify-center max-w-screen-lg mx-auto h-full'>
             <div className=''>
                 <p className='text-4xl font-bold inline border-b-4 border-gray-500'>Contact</p>
-                <p className='py-2 text-gray-400'>Submit the details below to get in touch with me</p>
+                <p className='py-1 text-gray-400'>Submit the details below to get in touch with me</p>
             </div>
             <div className=''>
           {/* Contact information */}
