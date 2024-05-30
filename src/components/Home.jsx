@@ -11,7 +11,7 @@ const Home = () => {
                 Back-end Developer
                 </h2>
                 <p className='text-gray-500 py-4 max-w-md'>
-                    Software Engineer having experience of 1 year in Java back-end web development and well acquainted with agile methodologies.
+                    Software Engineer having experience of 1 year in Java back-end development and well acquainted with agile methodologies.
                     Proficient in multiple programming languages and well-versed in utilizing various development tools and frameworks.
                 </p>
                 <div>
@@ -25,7 +25,7 @@ const Home = () => {
                 </div>
             </div>
             <div>
-                <img className='rounded-2xl mx-auto w-2/3 md:w-full' src="https://i.postimg.cc/FHgbbydM/sumanth.jpg" alt="my profile" />
+                <img className='rounded-circle mx-auto w-2/3 md:w-full' src="https://i.ibb.co/tbW1GtX/Whats-App-Image-2024-01-25-at-11-27-04-modified.png" alt="my profile" />
             </div>
         </div>
     </div>
